@@ -1,0 +1,9 @@
+aiohttp>=3.9
+requests>=2.31
+beautifulsoup4>=4.12
+fake_useragent>=1.5
+rapidfuzz>=3.5
+feedparser>=6.0
+prettytable>=3.9
+pandas>=2.2
+colorama>=0.4          # only if you plan coloured output

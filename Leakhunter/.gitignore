@@ -1,0 +1,29 @@
+# ─── Python byte-code / build ─────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+build/
+dist/
+*.egg-info/
+
+# ─── Virtual-envs ─────────────────────────────────────────
+.venv/
+env/
+venv/
+
+# ─── IDE / editor files ──────────────────────────────────
+.vscode/
+.idea/
+*.swp
+
+# ─── Local runtime data ──────────────────────────────────
+leakhunter.db
+cache_seen.json
+exports/
+raw/
+
+# ─── OS artefacts ────────────────────────────────────────
+.DS_Store
+Thumbs.db
