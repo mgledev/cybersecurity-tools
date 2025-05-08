@@ -1,0 +1,10 @@
+__pycache__/
+*.log
+*.csv
+*.pdf
+*.txt
+*.zip
+hashes.txt
+cracked.csv
+summary.*
+.env
